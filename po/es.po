@@ -3533,8 +3533,8 @@ msgid ""
 "Warning: some commits may have been dropped accidentally.\n"
 "Dropped commits (newer to older):\n"
 msgstr ""
-"Peligro: algunos commits pueden haber sido botados de forma accidental.\n"
-"Commits botados (empezando con el mas nuevo):\n"
+"Peligro: algunos commits pueden haber sido borrados de forma accidental.\n"
+"Commits borrados (empezando con el mas nuevo):\n"
 
 #: sequencer.c:2648
 #, c-format
@@ -14981,7 +14981,7 @@ msgstr "La entrada de stash se guardó en caso de ser necesario nuevamente."
 #: git-stash.sh:650
 #, sh-format
 msgid "Dropped ${REV} ($s)"
-msgstr "Botado ${REV} ($s)"
+msgstr "Borrado ${REV} ($s)"
 
 #: git-stash.sh:651
 #, sh-format
@@ -16394,7 +16394,7 @@ msgstr "error: no es posible extraer una direccion valida de %s\n"
 #. at this point.
 #: git-send-email.perl:939
 msgid "What to do with this address? ([q]uit|[d]rop|[e]dit): "
-msgstr "Que hacer con esta direccion? ([q]salir|[d]botar|[e]ditar):"
+msgstr "Que hacer con esta direccion? ([q]salir|[d]borrar|[e]ditar):"
 
 #: git-send-email.perl:1260
 #, perl-format
